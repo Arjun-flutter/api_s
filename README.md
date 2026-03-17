@@ -1,16 +1,31 @@
-# get_api_posts
+# Get API Data App 🚀
 
-A new Flutter project.
+A comprehensive Flutter application that demonstrates how to fetch, display, and manage data from a REST API (JSONPlaceholder).
 
-## Getting Started
+## 📌 Project Overview
+This project serves as a practical guide for Flutter developers to handle API integrations. It includes multiple screens, each dedicated to a specific data type (Posts, Comments, Photos, Todos, Users), and features a mock login and update functionality.
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- **Home Screen:** A central dashboard to navigate through different sections.
+- **Posts:** Fetches and displays a list of posts.
+- **Comments:** Shows comments associated with various data.
+- **Photos:** Displays image thumbnails and titles using `NetworkImage`.
+- **Todos:** Manages a list of task items.
+- **Users:** Shows user information.
+- **Login:** A mock login screen using `http.post`.
+- **Update User:** Demonstrates how to update existing data.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
+- **Framework:** [Flutter](https://flutter.dev/)
+- **Language:** Dart
+- **Networking:** [http](https://pub.dev/packages/http) package
+- **API:** [JSONPlaceholder](https://jsonplaceholder.typicode.com/) (Fake Online REST API)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 📸 Screenshots
+*(Add your screenshots here later)*
+
+---
+Developed with ❤️ by Nagaraju
